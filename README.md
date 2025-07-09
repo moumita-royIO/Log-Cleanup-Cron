@@ -52,6 +52,3 @@ chmod +x cleanupaskfromuser.sh
 Moumita Roy
 Technical Services Engineer | Bash & Linux Enthusiast
 =======
-# Log-Cleanup-Cron
-Bash script to clean up large, outdated files using cron – used by Technical Support teams to manage disk space.
->>>>>>> a2e162e59af2f65872016c79d5b20eefd3129a89
