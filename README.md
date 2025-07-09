@@ -45,10 +45,16 @@ chmod +x cleanupaskfromuser.sh
 ```bash
 ./cleanup_trash.sh
 ```
-
+### 3. Automated with cron job for the non-interactive script:
+```bash
+crontab -e
+```
+  - Replace /path/to/ with the actual full path to your script
+```bash
+0 3 * * * /path/to/cleanup.sh
+```
+ - Verify is cron job is scheduled
+```bash
+crontab -l
+```
 ---
-
-## 💻 Author
-Moumita Roy
-Technical Services Engineer | Bash & Linux Enthusiast
-=======
