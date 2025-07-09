@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Cleanup to Trash — Bash + Cron
 
 A cross-platform Bash script that finds large and old files and safely moves them to the **Trash/Recycle Bin** instead of deleting them permanently. Built for Technical Support Engineers who frequently deal with log files and crash dumps.
@@ -50,3 +51,7 @@ chmod +x cleanupaskfromuser.sh
 ## 💻 Author
 Moumita Roy
 Technical Services Engineer | Bash & Linux Enthusiast
+=======
+# Log-Cleanup-Cron
+Bash script to clean up large, outdated files using cron – used by Technical Support teams to manage disk space.
+>>>>>>> a2e162e59af2f65872016c79d5b20eefd3129a89
