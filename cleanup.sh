@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TARGET_DIR="/Users/moumitaroy/Downloads"
+TARGET_DIR="/Users/xxxx/xxxx"
 SIZE_THRESHOLD="+200M"
 AGE_THRESHOLD="+7"
 LOGFILE="$HOME/cron_cleanup.log"
